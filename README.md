@@ -4,7 +4,8 @@ Code, notebooks and exported data for
 
 > Galli C. **Host-response memory under periodic plaque removal: a dynamical model of post-therapy vulnerability and relapse in periodontitis.** *2026*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) <!-- replace after the first Zenodo release -->
+[![DOI](https://zenodo.org/badge/1427527316.svg)](https://doi.org/10.5281/zenodo.23513019)
+
 
 This repository is the **archived scientific record** of the paper. The interactive teaching site, where the model can be explored in the browser, lives separately at **[periodontal-dynamics-lab](https://github.com/CarloGalliUnipr/periodontal-dynamics-lab)**. Results should be cited from this repository (by DOI and version), not from the interactive site.
 
