@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "periomemory"
+version = "1.0.0"
+description = "Host-response memory model of a periodontal site (reference implementation)"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "Carlo Galli"}]
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24", "scipy>=1.10"]
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+notebooks = ["pandas>=2.0", "matplotlib>=3.7", "jupyter"]
+
+[project.urls]
+Repository = "https://github.com/CarloGalliUnipr/periodontal-host-memory-model"
+"Interactive lab" = "https://github.com/CarloGalliUnipr/periodontal-dynamics-lab"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

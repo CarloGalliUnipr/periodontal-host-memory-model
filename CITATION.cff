@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the article and this repository."
+title: "Periodontal host-memory model: code, notebooks and data"
+type: software
+version: 1.0.0
+date-released: 2026-10-20          # update on release
+license: MIT
+repository-code: "https://github.com/CarloGalliUnipr/periodontal-host-memory-model"
+authors:
+  - family-names: Galli
+    given-names: Carlo
+    affiliation: "Department of Medicine and Surgery, University of Parma, Parma, Italy"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add your ORCID
+keywords:
+  - periodontitis
+  - host-response memory
+  - trained immunity
+  - dynamical systems
+  - mathematical model
+abstract: >-
+  Python implementation, Colab notebooks and exported data for a minimal dynamical model of a
+  periodontal site in which the host response threshold is a slowly recovering adaptive state.
+  The model shows post-therapy vulnerability, memory ratchets under periodic plaque removal and
+  structural memory through attachment loss.
+preferred-citation:
+  type: article
+  title: "Host-response memory under periodic plaque removal: a dynamical model of post-therapy vulnerability and relapse in periodontitis"
+  authors:
+    - family-names: Galli
+      given-names: Carlo
+  year: 2026
+  status: submitted                # update with journal, volume, pages and DOI on acceptance
