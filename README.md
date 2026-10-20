@@ -2,7 +2,7 @@
 
 Code, notebooks and exported data for
 
-> Galli C. **Host-response memory under periodic plaque removal: a dynamical model of post-therapy vulnerability and relapse in periodontitis.** *Manuscript submitted, 2026.*
+> Galli C. **Host-response memory under periodic plaque removal: a dynamical model of post-therapy vulnerability and relapse in periodontitis.** *2026*
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) <!-- replace after the first Zenodo release -->
 
