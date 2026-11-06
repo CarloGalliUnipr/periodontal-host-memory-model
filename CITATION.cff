@@ -2,32 +2,49 @@ cff-version: 1.2.0
 message: "If you use this software or data, please cite the article and this repository."
 title: "Periodontal host-memory model: code, notebooks and data"
 type: software
-version: 1.0.0
-doi: 10.5281/zenodo.23513020
-date-released: 2026-10-20          # update on release
+version: 1.1.0
+doi: 10.5281/zenodo.23513019       # concept DOI: always resolves to the latest release
+date-released: 2026-11-06          # update to the date of the GitHub release
 license: MIT
 repository-code: "https://github.com/CarloGalliUnipr/periodontal-host-memory-model"
 authors:
   - family-names: Galli
     given-names: Carlo
     affiliation: "Department of Medicine and Surgery, University of Parma, Parma, Italy"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add your ORCID
+    orcid: "https://orcid.org/0000-0001-7476-7181"
 keywords:
   - periodontitis
   - host-response memory
   - trained immunity
+  - endotoxin tolerance
+  - periodontal therapy
   - dynamical systems
   - mathematical model
 abstract: >-
-  Python implementation, Colab notebooks and exported data for a minimal dynamical model of a
-  periodontal site in which the host response threshold is a slowly recovering adaptive state.
-  The model shows post-therapy vulnerability, memory ratchets under periodic plaque removal and
-  structural memory through attachment loss.
+  Python implementation, Colab notebooks, exported data and figure scripts for a minimal dynamical
+  model of a periodontal site in which past inflammation shifts the host response threshold through a
+  slowly recovering response state. After simulated therapy, inflammation resolves before
+  responsiveness recovers, so treated sites respond to less plaque than never-diseased sites for months;
+  an instantaneously adapting host with identical equilibria serves as control.
 preferred-citation:
   type: article
-  title: "Host-response memory under periodic plaque removal: a dynamical model of post-therapy vulnerability and relapse in periodontitis"
+  title: "Modeling the persistence of altered host responsiveness after periodontal therapy"
   authors:
     - family-names: Galli
       given-names: Carlo
+      orcid: "https://orcid.org/0000-0001-7476-7181"
+    - family-names: Colangelo
+      given-names: Maria Teresa
+      orcid: "https://orcid.org/0000-0002-4664-5766"
+    - family-names: Rossetti
+      given-names: Sara
+      orcid: "https://orcid.org/0009-0003-3455-2655"
+    - family-names: Meleti
+      given-names: Marco
+      orcid: "https://orcid.org/0000-0002-9111-3224"
+    - family-names: Calciolari
+      given-names: Elena
+      orcid: "https://orcid.org/0000-0001-8781-1997"
+  journal: "Journal of Periodontal Research"
   year: 2026
-  status: submitted                # update with journal, volume, pages and DOI on acceptance
+  status: submitted                # update with volume, pages and DOI on acceptance

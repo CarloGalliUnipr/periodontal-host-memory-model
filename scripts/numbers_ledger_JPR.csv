@@ -1,0 +1,317 @@
+key,value,printed,source,note
+A_retained_eps001,0.9705674439191476,0.97,14A rechallenge_reference.csv,
+A_retained_eps003,0.9145094532613988,0.91,14A rechallenge_reference.csv,
+U02_reference_eps=0.01_d0,0.25,≤0.25,"Figure2_F.csv (from 14A, 15A A3)",
+U02_reference_eps=0.01_d15,0.25,≤0.25,"Figure2_F.csv (from 14A, 15A A3)",
+U02_reference_eps=0.01_d30,0.2589326294524903,0.26,"Figure2_F.csv (from 14A, 15A A3)",
+U02_reference_eps=0.01_d60,0.2943916030329634,0.29,"Figure2_F.csv (from 14A, 15A A3)",
+U02_reference_eps=0.01_d90,0.3238475232461027,0.32,"Figure2_F.csv (from 14A, 15A A3)",
+U02_reference_eps=0.01_d180,0.4048039480727181,0.40,"Figure2_F.csv (from 14A, 15A A3)",
+U02_reference_eps=0.01_d365,0.4990690385711187,0.50,"Figure2_F.csv (from 14A, 15A A3)",
+U02_reference_eps=0.03_d0,0.256656037966712,0.26,"Figure2_F.csv (from 14A, 15A A3)",
+U02_reference_eps=0.03_d15,0.309151487396025,0.31,"Figure2_F.csv (from 14A, 15A A3)",
+U02_reference_eps=0.03_d30,0.355638386747522,0.36,"Figure2_F.csv (from 14A, 15A A3)",
+U02_reference_eps=0.03_d60,0.4244134083978006,0.42,"Figure2_F.csv (from 14A, 15A A3)",
+U02_reference_eps=0.03_d90,0.4693337600216738,0.47,"Figure2_F.csv (from 14A, 15A A3)",
+U02_reference_eps=0.03_d180,0.5255916153293752,0.53,"Figure2_F.csv (from 14A, 15A A3)",
+U02_reference_eps=0.03_d365,0.5411445878686137,0.54,"Figure2_F.csv (from 14A, 15A A3)",
+U02_reference_instant_d0,0.4553253784577727,0.46,"Figure2_F.csv (from 14A, 15A A3)",
+U02_reference_instant_d15,0.455344978306313,0.46,"Figure2_F.csv (from 14A, 15A A3)",
+U02_reference_instant_d30,0.4553449812805106,0.46,"Figure2_F.csv (from 14A, 15A A3)",
+U02_reference_instant_d60,0.4553449812809586,0.46,"Figure2_F.csv (from 14A, 15A A3)",
+U02_reference_instant_d90,0.455344981280958,0.46,"Figure2_F.csv (from 14A, 15A A3)",
+U02_reference_instant_d180,0.4553449812809643,0.46,"Figure2_F.csv (from 14A, 15A A3)",
+U02_reference_instant_d365,0.4553449812809785,0.46,"Figure2_F.csv (from 14A, 15A A3)",
+U02_third_eps=0.01_d0,0.3,≤0.30,"Figure2_F.csv (from 14A, 15A A3)",
+U02_third_eps=0.01_d15,0.3,≤0.30,"Figure2_F.csv (from 14A, 15A A3)",
+U02_third_eps=0.01_d30,0.3,≤0.30,"Figure2_F.csv (from 14A, 15A A3)",
+U02_third_eps=0.01_d60,0.3,≤0.30,"Figure2_F.csv (from 14A, 15A A3)",
+U02_third_eps=0.01_d90,0.3,≤0.30,"Figure2_F.csv (from 14A, 15A A3)",
+U02_third_eps=0.01_d180,0.3055035866861843,0.31,"Figure2_F.csv (from 14A, 15A A3)",
+U02_third_eps=0.01_d365,0.3494794773483523,0.35,"Figure2_F.csv (from 14A, 15A A3)",
+U02_third_eps=0.03_d0,0.3,≤0.30,"Figure2_F.csv (from 14A, 15A A3)",
+U02_third_eps=0.03_d15,0.3,≤0.30,"Figure2_F.csv (from 14A, 15A A3)",
+U02_third_eps=0.03_d30,0.3,≤0.30,"Figure2_F.csv (from 14A, 15A A3)",
+U02_third_eps=0.03_d60,0.3148421217974726,0.31,"Figure2_F.csv (from 14A, 15A A3)",
+U02_third_eps=0.03_d90,0.3370323710261131,0.34,"Figure2_F.csv (from 14A, 15A A3)",
+U02_third_eps=0.03_d180,0.3576424215509923,0.36,"Figure2_F.csv (from 14A, 15A A3)",
+U02_third_eps=0.03_d365,0.3638136370810574,0.36,"Figure2_F.csv (from 14A, 15A A3)",
+U02_third_instant_d0,0.3448500435640889,0.34,"Figure2_F.csv (from 14A, 15A A3)",
+U02_third_instant_d15,0.344866286692445,0.34,"Figure2_F.csv (from 14A, 15A A3)",
+U02_third_instant_d30,0.3448662939045177,0.34,"Figure2_F.csv (from 14A, 15A A3)",
+U02_third_instant_d60,0.3448662939069048,0.34,"Figure2_F.csv (from 14A, 15A A3)",
+U02_third_instant_d90,0.3448662939069048,0.34,"Figure2_F.csv (from 14A, 15A A3)",
+U02_third_instant_d180,0.3448662939069049,0.34,"Figure2_F.csv (from 14A, 15A A3)",
+U02_third_instant_d365,0.3448662939069049,0.34,"Figure2_F.csv (from 14A, 15A A3)",
+U02_single-state_eps=0.01_d15,0.2,≤0.20,"Figure2_F.csv (from 14A, 15A A3)",
+U02_single-state_eps=0.01_d30,0.2,≤0.20,"Figure2_F.csv (from 14A, 15A A3)",
+U02_single-state_eps=0.01_d60,0.2024165303400081,0.20,"Figure2_F.csv (from 14A, 15A A3)",
+U02_single-state_eps=0.01_d90,0.2202625036944595,0.22,"Figure2_F.csv (from 14A, 15A A3)",
+U02_single-state_eps=0.01_d180,0.2577496383569725,0.26,"Figure2_F.csv (from 14A, 15A A3)",
+U02_single-state_eps=0.01_d365,0.300652137026355,0.30,"Figure2_F.csv (from 14A, 15A A3)",
+U02_single-state_eps=0.03_d15,0.2,≤0.20,"Figure2_F.csv (from 14A, 15A A3)",
+U02_single-state_eps=0.03_d30,0.2,≤0.20,"Figure2_F.csv (from 14A, 15A A3)",
+U02_single-state_eps=0.03_d60,0.2138608944656831,0.21,"Figure2_F.csv (from 14A, 15A A3)",
+U02_single-state_eps=0.03_d90,0.2506704292357676,0.25,"Figure2_F.csv (from 14A, 15A A3)",
+U02_single-state_eps=0.03_d180,0.3018224072156908,0.30,"Figure2_F.csv (from 14A, 15A A3)",
+U02_single-state_eps=0.03_d365,0.3145510732736387,0.31,"Figure2_F.csv (from 14A, 15A A3)",
+U02_single-state_instant_d15,0.2410907990255233,0.24,"Figure2_F.csv (from 14A, 15A A3)",
+U02_single-state_instant_d30,0.2420361663451834,0.24,"Figure2_F.csv (from 14A, 15A A3)",
+U02_single-state_instant_d60,0.2420389676973153,0.24,"Figure2_F.csv (from 14A, 15A A3)",
+U02_single-state_instant_d90,0.2420389677187062,0.24,"Figure2_F.csv (from 14A, 15A A3)",
+U02_single-state_instant_d180,0.2420389677187216,0.24,"Figure2_F.csv (from 14A, 15A A3)",
+U02_single-state_instant_d365,0.2420389677187583,0.24,"Figure2_F.csv (from 14A, 15A A3)",
+U02_reference_eps=0.01_naive,0.5545491484084332,0.55,Figure2_F.csv,
+U02ratio_reference_eps=0.01_d0,0.4508166692122868,0.45,Figure2_F.csv,
+U02ratio_reference_eps=0.01_d60,0.5308665676935453,0.53,Figure2_F.csv,added 061126
+U02ratio_reference_eps=0.01_d90,0.5839834470498267,0.58,Figure2_F.csv,added 061126
+U02ratio_reference_eps=0.01_d180,0.7299694702165053,0.73,Figure2_F.csv,added 061126
+U02ratio_reference_eps=0.01_d365,0.8999545667024403,0.90,Figure2_F.csv,text corrected from 91% (061126)
+U02_reference_eps=0.03_naive,0.5417874991741204,0.54,Figure2_F.csv,
+U02ratio_reference_eps=0.03_d0,0.4737208561621455,0.47,Figure2_F.csv,
+U02ratio_reference_eps=0.03_d365,0.9988133515326828,1.00,Figure2_F.csv,
+U02_reference_instant_naive,0.4553449812809593,0.46,Figure2_F.csv,
+U02ratio_reference_instant_d0,0.999956949513023,1.00,Figure2_F.csv,
+U02ratio_reference_instant_d365,1.000000000000042,1.00,Figure2_F.csv,
+U02_single-state_eps=0.01_naive,0.3232195326856724,0.32,Figure2_F.csv,
+U02ratio_single-state_eps=0.01_d0,0.6187744853727571,0.62,Figure2_F.csv,
+U02ratio_single-state_eps=0.01_d30,0.6187744853727573,≤0.62,Figure2_F.csv,text corrected from 63% (061126)
+U02ratio_single-state_eps=0.01_d90,0.681464086852271,0.68,Figure2_F.csv,text corrected from 69% (061126)
+U02ratio_single-state_eps=0.01_d180,0.7974444991467498,0.80,Figure2_F.csv,text corrected from 81% (061126)
+U02ratio_single-state_eps=0.01_d365,0.9301793568235124,0.93,Figure2_F.csv,text corrected from 94% (061126)
+U02_single-state_eps=0.03_naive,0.3150341960170015,0.32,Figure2_F.csv,
+U02ratio_single-state_eps=0.03_d0,0.6348517161902214,0.63,Figure2_F.csv,
+U02ratio_single-state_eps=0.03_d365,0.998466443486228,1.00,Figure2_F.csv,
+U02_single-state_instant_naive,0.2420389677187066,0.24,Figure2_F.csv,
+U02ratio_single-state_instant_d0,0.9960825783462882,1.00,Figure2_F.csv,
+U02ratio_single-state_instant_d365,1.0000000000002134,1.00,Figure2_F.csv,
+U02_third_eps=0.01_naive,0.3679873761864729,0.37,Figure2_F.csv,
+U02ratio_third_eps=0.01_d0,0.8152453573515489,0.82,Figure2_F.csv,
+U02ratio_third_eps=0.01_d365,0.9497050713263002,0.95,Figure2_F.csv,
+U02_third_eps=0.03_naive,0.3641489361090587,0.36,Figure2_F.csv,
+U02ratio_third_eps=0.03_d0,0.8238387380875203,≤0.82,Figure2_F.csv,text corrected from 83% (061126); days 0-30 are upper bounds
+U02ratio_third_eps=0.03_d90,0.92553441080266,0.93,Figure2_F.csv,text corrected from 94% (061126)
+U02ratio_third_eps=0.03_d180,0.982132270857115,0.98,Figure2_F.csv,added 061126 (text said the difference disappeared)
+U02ratio_third_eps=0.03_d365,0.9990792255729648,1.00,Figure2_F.csv,
+U02_third_instant_naive,0.3448662939069048,0.34,Figure2_F.csv,
+U02ratio_third_instant_d0,0.9999528792952428,1.00,Figure2_F.csv,
+U02ratio_third_instant_d365,1.0000000000000002,1.00,Figure2_F.csv,
+peak_eps=0.03_d60_U0.5_treated,0.3937704516850485,0.39,14A,persistent=False
+peak_eps=0.03_d60_U0.5_naive,0.1467463779195667,0.15,14A,persistent=False
+peak_eps=0.01_d90_U0.35_treated,0.2569927858823652,0.26,14A,persistent=False
+peak_eps=0.01_d90_U0.35_naive,0.0359876379742938,0.04,14A,persistent=False
+peak_ratio_eps=0.01_d90_U0.35,7.141140690198584,7.1,14A,"Figure 1C; text 'approximately sevenfold (0.257 versus 0.036)', corrected from sixfold (061126)"
+peak_eps=0.01_d180_U0.45_treated,0.2929339723513037,0.29,14A,persistent=False
+peak_eps=0.01_d180_U0.45_naive,0.0938576260847523,0.09,14A,persistent=False
+lowestUconv_eps=0.01_d0,0.3,0.30,Figure3_B (14A),
+lowestUconv_eps=0.01_d15,0.3,0.30,Figure3_B (14A),
+lowestUconv_eps=0.01_d30,0.35,0.35,Figure3_B (14A),
+lowestUconv_eps=0.01_d60,0.4,0.40,Figure3_B (14A),
+lowestUconv_eps=0.01_d90,0.65,0.65,Figure3_B (14A),
+lowestUconv_eps=0.03_d0,0.35,0.35,Figure3_B (14A),
+lowestUconv_eps=0.03_d15,0.4,0.40,Figure3_B (14A),
+lowestUconv_eps=0.03_d30,0.5,0.50,Figure3_B (14A),
+lowestUconv_instant_d0,0.55,0.55,Figure3_B (14A),
+lowestUconv_instant_d15,0.55,0.55,Figure3_B (14A),
+lowestUconv_instant_d30,0.55,0.55,Figure3_B (14A),
+lowestUconv_instant_d60,0.55,0.55,Figure3_B (14A),
+lowestUconv_instant_d90,0.55,0.55,Figure3_B (14A),
+lowestUconv_instant_d180,0.55,0.55,Figure3_B (14A),
+lowestUconv_instant_d365,0.55,0.55,Figure3_B (14A),
+naive_memory_converts_any,no,no,14A,
+instant_lowest_conv_U,0.45,0.45,14A,
+Ustar_eps=0.01,0.6231355879455804,0.62,Figure3_A,
+calib_eps=0.01_d0,0.9956762355828476,1.00,Figure3_A,persistent=True
+calib_eps=0.01_d15,0.9943913760727552,0.99,Figure3_A,persistent=True
+calib_eps=0.01_d30,0.9927951691880486,0.99,Figure3_A,persistent=True
+calib_eps=0.01_d60,0.988517362737834,0.99,Figure3_A,persistent=True
+calib_eps=0.01_d90,0.9824862835672816,0.98,Figure3_A,persistent=True
+calib_eps=0.01_d180,0.9440066561617724,0.94,Figure3_A,persistent=False
+calib_eps=0.01_d365,0.4639925250819021,0.46,Figure3_A,persistent=False
+calib_eps=0.01_last_persistent_day,90.0,90,Figure3_A,
+Ustar_eps=0.03,0.6035815365612507,0.60,Figure3_A,
+calib_eps=0.03_d0,0.9941098989290972,0.99,Figure3_A,persistent=True
+calib_eps=0.03_d15,0.9889497366042715,0.99,Figure3_A,persistent=True
+calib_eps=0.03_d30,0.980272304863362,0.98,Figure3_A,persistent=True
+calib_eps=0.03_d60,0.9263088520957704,0.93,Figure3_A,persistent=False
+calib_eps=0.03_d90,0.6270742276231341,0.63,Figure3_A,persistent=False
+calib_eps=0.03_d180,0.3375284415278956,0.34,Figure3_A,persistent=False
+calib_eps=0.03_d365,0.3013046544488691,0.30,Figure3_A,persistent=False
+calib_eps=0.03_last_persistent_day,30.0,30,Figure3_A,
+Ustar_instant,0.4838973687961699,0.48,Figure3_A,
+calib_instant_d0,0.3001756597847758,0.30,Figure3_A,persistent=False
+calib_instant_d15,0.3000000317129307,0.30,Figure3_A,persistent=False
+calib_instant_d30,0.3000000051490099,0.30,Figure3_A,persistent=False
+calib_instant_d60,0.3000000051450091,0.30,Figure3_A,persistent=False
+calib_instant_d90,0.3000000051450089,0.30,Figure3_A,persistent=False
+calib_instant_d180,0.3000000051450082,0.30,Figure3_A,persistent=False
+calib_instant_d365,0.3000000051450085,0.30,Figure3_A,persistent=False
+calib_instant_last_persistent_day,none,none,Figure3_A,
+calib_r003_any_persistent,no,no,FigureS11_E,
+calib_r003_eps001_d0,0.972008252825204,0.97,FigureS11_E,
+calib_r003_eps001_d60,0.9182000208175484,0.92,FigureS11_E,
+calib_r003_eps001_d180,0.6683839970092693,0.67,FigureS11_E,
+calib_r003_eps001_d365,0.4085008928272987,0.41,FigureS11_E,
+sample_ref_n,234,234,FigureS6_A_B,
+sample_ref_no_diseased_state_at_baseline,61,61,14E E_sample_results.csv,added 061126 (SI S3.2 accounting)
+sample_ref_relapse_without_challenge,5,5,14E E_sample_results.csv,added 061126
+sample_ref_naive_never_converts,1,1,14E E_sample_results.csv,added 061126; 234 + 61 + 5 + 1 = 301
+sample_ref_all_below1,yes,yes,FigureS6_A_B,
+sample_ref_median,0.4799677672736134,0.48,FigureS6_A_B,
+sample_ref_p10,0.4010507435718217,0.40,FigureS6_A_B,
+sample_ref_p90,0.6084657881612447,0.61,FigureS6_A_B,
+sample_ref_inst_median,0.5977894792921465,0.60,FigureS6_A_B,
+sample_ref_inst_p10,0.4853153070531964,0.49,FigureS6_A_B,
+sample_ref_inst_p90,0.7250199533215538,0.73,FigureS6_A_B,
+sample_third_n,180,180,FigureS6_A_B,
+sample_third_all_below1,yes,yes,FigureS6_A_B,
+sample_third_median,0.8149583282436461,0.81,FigureS6_A_B,
+sample_third_p10,0.7458450655766011,0.75,FigureS6_A_B,
+sample_third_p90,0.863460542955941,0.86,FigureS6_A_B,
+sample_third_inst_median,0.8314531501023148,0.83,FigureS6_A_B,
+sample_third_inst_p10,0.7677559333638875,0.77,FigureS6_A_B,
+sample_third_inst_p90,0.8738959335278201,0.87,FigureS6_A_B,
+third_sample_spearman_alpha,-0.9369959978188627,-0.94,FigureS6_E,
+15B_category_evaluable,180,180,15B B_sample_results.csv,
+15B_category_therapy fails (relapse without challenge),67,67,15B B_sample_results.csv,
+15B_category_not intrinsically bistable at u > 0,53,53,15B B_sample_results.csv,
+weibull_reference_eps0.03,0.5130432234432236,0.51,FigureS6_F,
+hill_reference_eps0.03,0.5221849456788924,0.52,FigureS6_F,
+weibull_reference_eps0.01,0.4530990010481002,0.45,FigureS6_F,
+hill_reference_eps0.01,0.4666398385965293,0.47,FigureS6_F,
+weibull_third_eps0.03,0.920751146207658,0.92,FigureS6_F,
+hill_third_eps0.03,0.7324534846727764,0.73,FigureS6_F,
+weibull_third_eps0.01,0.9019117262398928,0.90,FigureS6_F,
+hill_third_eps0.01,0.6921914149048516,0.69,FigureS6_F,
+reduction_vs_naive_eps=0.01,53.33601614034706,53%,14B B1,
+reduction_vs_instant_eps=0.01,44.08671514582843,44%,14B B1,
+reduction_vs_naive_eps=0.03,47.78150543211076,48%,14B B1,
+reduction_vs_instant_eps=0.03,,nan%,14B B1,
+reduction_vs_naive_eps=0.1,35.49763922328882,35%,14B B1,
+reduction_vs_instant_eps=0.1,20.70536229098596,21%,14B B1,
+V_half_life_min,0.7220575783234556,0.72,FigureS11_C,
+V_half_life_max,0.7597287735849058,0.76,FigureS11_C,
+window09_eps001_mt,1.6749080532656977,1.67,FigureS11_C,
+window09_eps001_months,9.182609941149659,9,FigureS11_C,
+window06_eps001_months,1.8516991797231892,2,FigureS11_C,
+"n16_second set, defined therapy, treated/naive at alpha=-0.25",1.0602409638554218,1.0602409638554218,numbers_for_text.csv,
+"n16_second set, state reset, treated/naive at alpha=-0.25",1.072289156626506,1.072289156626506,numbers_for_text.csv,
+"n16_second set, defined therapy, treated/naive at alpha=0.25",0.7435897435897435,0.7435897435897435,numbers_for_text.csv,
+"n16_second set, state reset, treated/naive at alpha=0.25",0.8461538461538461,0.8461538461538461,numbers_for_text.csv,
+"n16_second set, therapy restores at alpha=0.5",False,False,numbers_for_text.csv,
+"n16_dose-dependent, gingivitis ratio at recovery 0",0.9722222222222222,0.9722222222222222,numbers_for_text.csv,
+"n16_dose-dependent, treated ratio at recovery 0",1.0555555555555556,1.0555555555555556,numbers_for_text.csv,
+n16_relapse ceiling / fold at alpha=0.25 (eps=0.03),0.7261313988977453,0.7261313988977453,numbers_for_text.csv,
+n16_15B evaluable sets,180,180,numbers_for_text.csv,
+n16_15B treated/naive median,0.8149583282436461,0.8149583282436461,numbers_for_text.csv,
+n16_14E treated/naive median,0.4799677672736134,0.4799677672736134,numbers_for_text.csv,
+third_ratio_a0.0_eps0.03,0.999862051206592,1.00,Figure4_A,
+third_ratio_a0.0_eps0.01,1.0,1.00,Figure4_A,
+third_ratio_a0.125_eps0.03,0.9415027544819492,0.94,Figure4_A,
+third_ratio_a0.125_eps0.01,0.9260640777992406,0.93,Figure4_A,
+third_ratio_a0.25_eps0.03,0.8723354529608243,0.87,Figure4_A,
+third_ratio_a0.25_eps0.01,0.8452501201321945,0.85,Figure4_A,
+third_ratio_a0.375_eps0.03,0.8018024325838201,0.80,Figure4_A,
+third_ratio_a0.375_eps0.01,0.7664522114434382,0.77,Figure4_A,
+third_ratio_a0.5_eps0.03,0.7324534846727764,0.73,Figure4_A,
+third_ratio_a0.5_eps0.01,0.6921914149048516,0.69,Figure4_A,
+rho05_4_ratio_eps=0.01,0.46–0.47,0.46–0.47,17A A2_half_life,
+rho05_4_ratio_eps=0.03,0.50–0.53,0.50–0.53,17A A2_half_life,
+rho025_H_after_pc_r1,0.6528581299626074,0.65,17A A2_therapy,
+rho025_restored_memory_r1,no,no,17A A2_therapy,
+rho025_instant_ratio,0.849511701227796,0.85,17A A2_instant_host,
+rho025_instant_ceiling_over_fold,0.8329075866987877,0.83,17A A2_relapse_ceiling,
+Hrest_naive,0.003952816882498,0.004,FigureS12_F,
+Hrest_treated_d15,0.1201026617189357,0.12,FigureS12_F,
+u_matched_d15,0.430914213808027,0.43,FigureS12_F,
+peak_matched_incr_d15,0.5248914441018366,0.52,FigureS12_F,
+peak_treated_U04_d15,0.9860373055767993,0.99,FigureS12_F,
+Hrest_treated_d30,0.0941630180795411,0.09,FigureS12_F,
+u_matched_d30,0.4133112364061062,0.41,FigureS12_F,
+peak_matched_incr_d30,0.400874189176793,0.40,FigureS12_F,
+peak_treated_U04_d30,0.9807940447958108,0.98,FigureS12_F,
+Hrest_treated_d60,0.0597609623576472,0.06,FigureS12_F,
+u_matched_d60,0.3783629856882972,0.38,FigureS12_F,
+peak_matched_incr_d60,0.2807468127610709,0.28,FigureS12_F,
+peak_treated_U04_d60,0.9487592940810629,0.95,FigureS12_F,
+comm_peak_mu=0.01_d0,0.7554040158920862,0.76,17C C2,
+comm_peak_mu=0.03_d0,0.5068847399346623,0.51,17C C2,
+comm_peak_mu=0.1_d0,0.3271587140862912,0.33,17C C2,
+comm_peak_matched_mu001_d0,0.7475917702861121,0.75,17C C2,
+comm_peak_mu001_d90,0.3838489352008978,0.38,17C C2,
+comm_alone_min_ratio,0.9565546935707824,0.96,17C C2,
+comm_alone_min_ratio_matched,0.9809681984735784,0.98,17C C2,
+deficit_host,0.4763400183546145,0.48,17C C2_decomposition,
+deficit_comm,0.0274716760552959,0.03,17C C2_decomposition,
+deficit_both,0.5668949175403845,0.57,17C C2_decomposition,
+interaction_min_d0,0.0093460179442786,0.01,17C,"excluding beta=0.5, r=1"
+interaction_max_d0,0.0679280053813787,0.07,17C,"excluding beta=0.5, r=1"
+interaction_all_positive,yes,yes,17C,
+relapse_ceiling_min_over_fold,53.391511970980844,53%,14B B4,
+relapse_ceiling_max_over_fold,80.08726795647127,80%,14B B4,
+relapse_delay_median_days,2.166666666666667,2.2,17B B1_relapse_by_site,first_H_above_0p5_days
+relapse_delay_min_days,1.5,1.5,17B,
+relapse_delay_max_days,13.333333333333313,13,17B,
+rep_debr_eps001_first,0.2016666666666666,0.20,19A F2_trend_by_start.csv,"treated start, r=0.03, peak 0.75 (Figure 5C); replaces 15F naive-start 0.82 (061126)"
+rep_debr_eps001_last10,0.2283333333333333,0.23,19A F2_trend_by_start.csv,"treated start, r=0.03, peak 0.75, mean of visits 31-40"
+rep_debr_eps0003_first,0.1816666666666666,0.18,19A F2_trend_by_start.csv,"treated start, r=0.03, peak 0.75; replaces 15F naive-start 0.98"
+rep_debr_eps0003_last10,0.2181666666666666,0.22,19A F2_trend_by_start.csv,"treated start, r=0.03, peak 0.75"
+rep_debr_instant_range,0.38–0.39,0.38–0.39,19A F2_trend_by_start.csv,"instant host, r=0.03, peak 0.75: first visit 0.3917, later 0.3767"
+rep_debr_r1_eps001_first,0.185,0.19,19A F2_trend_by_start.csv,"treated start, r=1, peak 0.75"
+rep_debr_r1_eps001_last10,0.1933333333333333,0.19,19A F2_trend_by_start.csv,"treated start, r=1, peak 0.75"
+rep_debr_r1_eps0003_first,0.17,0.17,19A F2_trend_by_start.csv,"treated start, r=1, peak 0.75"
+rep_debr_r1_eps0003_last10,0.1866666666666667,0.19,19A F2_trend_by_start.csv,"treated start, r=1, peak 0.75"
+rep_debr_r1_instant_range,0.37–0.38,0.37–0.38,19A F2_trend_by_start.csv,"instant host, r=1, peak 0.75: first visit 0.3833, later 0.3717"
+rep_debr_p060_r003_eps001_first,0.2783333333333333,0.28,19A F2_trend_by_start.csv,"treated start, peak 0.60 (Figure S8A)"
+rep_debr_p060_r003_eps001_last10,0.8460000000000001,0.85,19A F2_trend_by_start.csv,"treated start, peak 0.60"
+rep_debr_p060_r003_eps0003_first,0.2416666666666666,0.24,19A F2_trend_by_start.csv,"treated start, peak 0.60"
+rep_debr_p060_r003_eps0003_last10,0.4443333333333333,0.44,19A F2_trend_by_start.csv,"treated start, peak 0.60"
+rep_debr_p060_r003_instant_range,0.57–0.59,0.57–0.59,19A F2_trend_by_start.csv,"first visit 0.585, later 0.5683"
+rep_debr_p060_r1_eps001_first,0.2483333333333333,0.25,19A F2_trend_by_start.csv,"treated start, peak 0.60"
+rep_debr_p060_r1_eps001_last10,0.3016666666666667,0.30,19A F2_trend_by_start.csv,"treated start, peak 0.60"
+rep_debr_p060_r1_eps0003_first,0.22,0.22,19A F2_trend_by_start.csv,"treated start, peak 0.60"
+rep_debr_p060_r1_eps0003_last10,0.2806666666666667,0.28,19A F2_trend_by_start.csv,"treated start, peak 0.60"
+rep_debr_p060_r1_instant_range,0.55–0.56,0.55–0.56,19A F2_trend_by_start.csv,"first visit 0.5617, later 0.5517"
+rep_debr_naive_eps001_first,0.8216666666666667,0.82,19A F2_trend_by_start.csv,"never-diseased start, r=0.03, peak 0.75 (SI S7 comparison; reproduces 15F)"
+rep_debr_naive_eps001_last10,0.2283333333333333,0.23,19A F2_trend_by_start.csv,"never-diseased start, r=0.03, peak 0.75"
+rep_debr_conv300_max_dA,4.0017420862403785e-05,<1e-4,19C convergence.csv,treated vs never-diseased start after 300 visits
+rep_debr_conv300_max_dfree,0.0,0,19C convergence.csv,treated vs never-diseased start after 300 visits
+sign_debr_a0.25_memory_first,0.5766666666666667,0.58,19B trend_by_start.csv,"treated start, eps=0.03, peak 0.46 (Figure S7B)"
+sign_debr_a0.25_memory_last10,0.595,0.60,19B trend_by_start.csv,
+sign_debr_a0.25_instant_first,0.6466666666666666,0.65,19B trend_by_start.csv,
+sign_debr_a0.25_instant_last10,0.6333333333333332,0.63,19B trend_by_start.csv,
+sign_debr_a-0.25_memory_first,0.735,0.74,19B trend_by_start.csv,"treated start, eps=0.03, peak 0.505"
+sign_debr_a-0.25_memory_last10,0.6950000000000001,0.70,19B trend_by_start.csv,
+sign_debr_a-0.25_instant_first,0.7033333333333334,0.70,19B trend_by_start.csv,
+sign_debr_a-0.25_instant_last10,0.6933333333333334,0.69,19B trend_by_start.csv,
+sign_debr_a-0.5_memory_first,0.3366666666666666,0.34,19B trend_by_start.csv,"treated start, eps=0.03, peak 0.905"
+sign_debr_a-0.5_memory_last10,0.3516666666666667,0.35,19B trend_by_start.csv,
+sign_debr_a-0.5_instant_first,0.3083333333333333,0.31,19B trend_by_start.csv,
+sign_debr_a-0.5_instant_last10,0.2983333333333333,0.30,19B trend_by_start.csv,
+sign_debr_a0.5_memory_first,0.0,0,19B trend_by_start.csv,"treated start, eps=0.03, peak 0.445: inflamed from the first visit"
+sign_debr_a0.5_instant_first,0.6066666666666667,0.61,19B trend_by_start.csv,inflamed from the second visit
+sign_debr_a0.5_instant_last10,0.0,0,19B trend_by_start.csv,
+adj_treated_conc_d0,0.4768589994154198,0.48,17B B2,
+adj_treated_none_d0,0.9956762355828476,1.00,17B B2,
+adj_naive_conc_d0,0.1400739765495936,0.14,17B B2,
+adj_early_vs_none_maxdiff_from15,0.0223705501116106,0.02,17B B2,both eps
+adj_ceiling_none_r1.0_eps0.03,0.295,0.295,17B B1,
+adj_ceiling_lam1_start0_r1.0_eps0.03,0.37,0.370,17B B1,
+adj_ceiling_none_r0.03_eps0.03,0.35,0.350,17B B1,
+adj_ceiling_lam1_start0_r0.03_eps0.03,0.405,0.405,17B B1,
+adj_ceiling_none_r1.0_eps0.01,0.265,0.265,17B B1,
+adj_ceiling_lam1_start0_r1.0_eps0.01,0.295,0.295,17B B1,
+adj_ceiling_none_r0.03_eps0.01,0.305,0.305,17B B1,
+adj_ceiling_lam1_start0_r0.03_eps0.01,0.33,0.330,17B B1,
+safe21_eps=0.01_d0,0.27,0.27,FigureS11_G_H,
+safe21_excess_eps=0.01_d0,0.4675474020892736,0.47,FigureS11_G_H,
+safe21_eps=0.01_d30,0.32,0.32,FigureS11_G_H,
+safe21_excess_eps=0.01_d30,0.6466304743472537,0.65,FigureS11_G_H,
+safe21_eps=0.03_d0,0.31,0.31,FigureS11_G_H,
+safe21_excess_eps=0.03_d0,0.4032477154094559,0.40,FigureS11_G_H,
+safe21_eps=0.03_d30,0.49,0.49,FigureS11_G_H,
+safe21_excess_eps=0.03_d30,0.8091321400200726,0.81,FigureS11_G_H,
+stop_any_conversion,no,no,15E E_stopping_rules,
+stop02_max_peak,0.4068165505220565,0.41,15E E_stopping_rules,
+same_signal_dR0,0.3704976718667738,0.37,FigureS2 (recomputed),
+same_signal_half_life,14.299999999999187,14,FigureS2 (recomputed),
